@@ -1,0 +1,11 @@
+C:\Users\catie\source\repos\WelcomeProject\bin\Debug\netcoreapp3.1\WelcomeProject.exe
+C:\Users\catie\source\repos\WelcomeProject\bin\Debug\netcoreapp3.1\WelcomeProject.deps.json
+C:\Users\catie\source\repos\WelcomeProject\bin\Debug\netcoreapp3.1\WelcomeProject.runtimeconfig.json
+C:\Users\catie\source\repos\WelcomeProject\bin\Debug\netcoreapp3.1\WelcomeProject.runtimeconfig.dev.json
+C:\Users\catie\source\repos\WelcomeProject\bin\Debug\netcoreapp3.1\WelcomeProject.dll
+C:\Users\catie\source\repos\WelcomeProject\bin\Debug\netcoreapp3.1\WelcomeProject.pdb
+C:\Users\catie\source\repos\WelcomeProject\obj\Debug\netcoreapp3.1\WelcomeProject.csprojAssemblyReference.cache
+C:\Users\catie\source\repos\WelcomeProject\obj\Debug\netcoreapp3.1\WelcomeProject.AssemblyInfoInputs.cache
+C:\Users\catie\source\repos\WelcomeProject\obj\Debug\netcoreapp3.1\WelcomeProject.AssemblyInfo.cs
+C:\Users\catie\source\repos\WelcomeProject\obj\Debug\netcoreapp3.1\WelcomeProject.dll
+C:\Users\catie\source\repos\WelcomeProject\obj\Debug\netcoreapp3.1\WelcomeProject.pdb

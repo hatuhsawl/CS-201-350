@@ -1,0 +1,9 @@
+C:\Users\catie\source\repos\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.exe.config
+C:\Users\catie\source\repos\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.exe
+C:\Users\catie\source\repos\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.pdb
+C:\Users\catie\source\repos\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.csprojAssemblyReference.cache
+C:\Users\catie\source\repos\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.Form1.resources
+C:\Users\catie\source\repos\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.Properties.Resources.resources
+C:\Users\catie\source\repos\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.csproj.GenerateResource.cache
+C:\Users\catie\source\repos\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.exe
+C:\Users\catie\source\repos\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.pdb
